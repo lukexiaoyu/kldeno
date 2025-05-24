@@ -1,3 +1,5 @@
 import {peos} from './peo.js'
 
-console.log(peos);
+export function c_peos(){
+  console.log(peos)
+}
